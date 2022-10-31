@@ -71,23 +71,31 @@
 
 # Маршрутный лист
 
+![][gif_scheme]
+
+
+
 <br><br> 
 
 # OverallPlan
 
 ![][png_plan]
 
-Вкладка Overall Plan отображает план приборов
+* Вкладка Overall Plan отображает план приборов
 
 <br><br> 
 
 # Сводные таблицы
 
+![Поиск][gif_pivot]
 
 <br><br> 
 
 # Фильтр
 
+![Фильтр][gif_filter]
+
+* При отметке флажка **_Сохранить после закрытия_** установленый фильтр будет сохранен и при последующем запуске **Монитора** восстановится. Без отметки - при каждом запуске **Монитора** фильтр будет очищаться 
 
 <br><br> 
 
@@ -107,6 +115,11 @@
 [gif_search]:       gif/search.gif
 [gif_mod_create]:   gif/mod_create.gif
 [gif_copy_creator]: gif/copy_creator.gif
+[gif_scheme]:       gif/route_scheme.gif
+[gif_filter]:       gif/filter.gif
+[gif_pivot]:        gif/pivot.gif
+
+
 
 
 
