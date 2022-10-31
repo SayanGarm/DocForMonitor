@@ -4,4 +4,4 @@
 
 # Пользовательская документация
 
-Смотрите Wiki
+Смотрите [Wiki](https://github.com/SayanGarm/DocForMonitor/wiki)
